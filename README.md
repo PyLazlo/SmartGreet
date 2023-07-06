@@ -1,4 +1,4 @@
-# SmartGreet
+# SmartGreet - project in progress
 A python web app used for sending personalized greeting cards
 
 Welcome to SmartGreet by Vatroslav Veble!
